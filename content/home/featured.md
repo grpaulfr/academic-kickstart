@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,3 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+This selection is inspired by the article [Richard Feynman at
+100](https://www.nature.com/articles/d41586-018-05082-4), in Nature in 2018.
+
+However, one can access a representative and non-exhaustive publication record of Richard P.
+Feynman [here]({{< ref "/publication/_index.md" >}}).
+
