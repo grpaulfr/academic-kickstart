@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -73,3 +73,4 @@ This selection is inspired by the article [Richard Feynman at
 However, one can access a representative and non-exhaustive publication record of Richard P.
 Feynman [here]({{< ref "/publication/_index.md" >}}).
 
+<hr>
